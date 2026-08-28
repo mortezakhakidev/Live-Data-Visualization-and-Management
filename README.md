@@ -4,6 +4,8 @@
 This project is a **full‑stack web application** that visualizes live data from a MySQL database using the powerful **D3.js** library. It features a clean, interactive frontend built with **HTML, CSS, and JavaScript**, and a robust backend that provides a **RESTful API** using **PHP**. The backend supports **GET, POST, PUT, and DELETE** requests, allowing full CRUD operations on the data. Real‑time updates are handled via **Ajax** and **jQuery**, making the dashboard responsive and dynamic.
 
 ---
+## Screenshot
+[Screenshot](screenshot/screenshot.jpg)
 
 ## Technologies Used
 
